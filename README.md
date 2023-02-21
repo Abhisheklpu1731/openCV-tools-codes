@@ -1,6 +1,7 @@
 # openCV-tools-codes
 
-![opencv](https://user-images.githubusercontent.com/122448640/220391407-84d9e90c-ce7e-4e8b-8720-e9c79d533981.png)
+![1200px-OpenCV_Logo_with_text_svg_version svg](https://user-images.githubusercontent.com/122448640/220394789-87dcd286-6ea1-4fce-b476-c816c87edbcc.png)
+
 <br>
 
 OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being an Apache 2 licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
